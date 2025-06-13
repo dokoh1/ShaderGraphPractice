@@ -1,0 +1,132 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-347189926847769879
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 9
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 16-1
+  m_Shader: {fileID: -6465566751694194690, guid: 33f1f6cd8ed89b24faf0f3c11f9d3013, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses:
+  - MOTIONVECTORS
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _SampleTexture2D_14fb3e606679443abb7b129a6c0ada5a_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 237101469db5b2e468ac29f87118a97a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_2f403f37d297421a94506eab1b0c5a31_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 64dc83182208d0348b039ad0b03608c0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_3eba63664cd94b448c51d27e192a7398_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 64dc83182208d0348b039ad0b03608c0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_65c008eb16c54670833b8ec6f6d5b649_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 237101469db5b2e468ac29f87118a97a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_665840a7534e475cba14f25dea0518b7_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 237101469db5b2e468ac29f87118a97a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_665840a7534e475cba14f25dea0518b7_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 237101469db5b2e468ac29f87118a97a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_7000a4555197477bb9c08f35e0ff0996_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 64dc83182208d0348b039ad0b03608c0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_7000a4555197477bb9c08f35e0ff0996_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 64dc83182208d0348b039ad0b03608c0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_775b63a9ec8f4e8c97c39f7ac3f436fa_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 4172fc529912f494089367a64b4d6362, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_7b030cf94cf84e07baa4bba1e6a962e9_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 4172fc529912f494089367a64b4d6362, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_7e4c2d96a0f84ec68aea1604c83cdebf_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 4172fc529912f494089367a64b4d6362, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_91e9a8fdc3ba40c9b88f4eafa4951918_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 237101469db5b2e468ac29f87118a97a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_935ebf74cb294f009229f1bdf3f48fd7_Texture_1:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_aeb4c626338a4b10945f18904dc85abb_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 64dc83182208d0348b039ad0b03608c0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_bbff0c8781d448d7b93a427c9f09d0f0_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 4172fc529912f494089367a64b4d6362, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_bf1701bfdd5245459966d281a20ec36a_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 4172fc529912f494089367a64b4d6362, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_bf1701bfdd5245459966d281a20ec36a_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 4172fc529912f494089367a64b4d6362, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_f7a59609879f47fe9dc2b542469b6b7a_Texture_1:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _MAIN_LIGHT_SHADOWS_CASCADE: 1
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    - _SHADOWS_SOFT: 0
+    m_Colors: []
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1

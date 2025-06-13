@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 18-1
+  m_Shader: {fileID: -6465566751694194690, guid: d579a594f54946a46b24edd20a3b051e, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses:
+  - MOTIONVECTORS
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _SampleReflectedCubemap_d6c98a73d53741f8a23627f843da305b_Cube_1:
+        m_Texture: {fileID: 8900000, guid: ce0c7584d4a7f1441be3dca36e46134a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_09e28b7c776943cc848404011c16a3a2_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 506b70ef0f586ff4c8c9f8b25b40a207, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_09e28b7c776943cc848404011c16a3a2_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 506b70ef0f586ff4c8c9f8b25b40a207, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_758e59a303e54e099fb523bf7d311b31_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 506b70ef0f586ff4c8c9f8b25b40a207, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_758e59a303e54e099fb523bf7d311b31_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 506b70ef0f586ff4c8c9f8b25b40a207, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_b53d6f31bba0485c8446467d43cccce7_Texture_1:
+        m_Texture: {fileID: 2800000, guid: cccd2a1202f39754d97c5cf43084b2fb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_b53d6f31bba0485c8446467d43cccce7_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: cccd2a1202f39754d97c5cf43084b2fb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_ba44ed54ee534c98a0b4b75f477e37b6_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 68258bf682a79ac4e9ee48c8462b5368, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_ba44ed54ee534c98a0b4b75f477e37b6_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 68258bf682a79ac4e9ee48c8462b5368, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_c79142486a374be8bcb91bf37c02da4a_Texture_1:
+        m_Texture: {fileID: 2800000, guid: cccd2a1202f39754d97c5cf43084b2fb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_c79142486a374be8bcb91bf37c02da4a_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: cccd2a1202f39754d97c5cf43084b2fb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _gamrig_4k:
+        m_Texture: {fileID: 8900000, guid: ee77761abcbccd344861510c592758fa, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    m_Colors: []
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1
+--- !u!114 &8442211941431348636
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 9
